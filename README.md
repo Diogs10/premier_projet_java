@@ -1,6 +1,6 @@
 # Projet Serveur - Administrateur - Salle (Java Console)
 
-Ce projet Java simple permet de gérer des **salles**, des **serveurs** et des **administrateurs** via une application console. Il est réalisé dans le cadre d’un examen pour le Master 1 GLAR/RT/SSI.
+Ce projet Java simple permet de gérer des **salles**, des **serveurs** et des **administrateurs** via une application console.
 
 ## 📁 Structure du projet
 
@@ -43,10 +43,6 @@ java -cp bin Application
 
 ## ✍️ Auteurs
 
-- Étudiant : [Ton Nom]
-- Encadrant : [Nom de l'enseignant]
+- Étudiant : Diogal NDIAYE
+- Encadrant : Mr SONKO
 - Année : 2024-2025
-
----
-
-**NB** : Ce projet est destiné à un usage académique. Vous pouvez le modifier librement selon les besoins de votre évaluation.
